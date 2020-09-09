@@ -47,7 +47,7 @@ const User = ({ match }) => {
       <div className='card grid-2'>
         <div className='all-center'>
           <img
-            src={avatar_url}
+            src={avatarp_url}
             className='round-img'
             alt=''
             style={{ width: '150px' }}
