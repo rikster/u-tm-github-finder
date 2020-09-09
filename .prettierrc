@@ -1,4 +1,6 @@
 {
+  "arrowParens": "avoid",
+  "endOfLine": "crlf",
   "trailingComma": "none",
   "tabWidth": 2,
   "semi": true,
